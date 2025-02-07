@@ -1,2 +1,2 @@
-# git_testJ Hello Odin! 
-This is a test of my new Git and Github accounts! 
+Hello Odin! 
+This is a test of my new Git and Github accounts! git git p
